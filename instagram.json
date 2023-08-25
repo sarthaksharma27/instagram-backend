@@ -1,0 +1,64 @@
+ {
+    "cats": {
+      "name": "cats",
+      "followers": 25000,
+      "following": 5,
+      "posts" : [
+        {
+          "images": "https://img.freepik.com/free-vector/funny-serious-cat-animal-meme_23-2148974916.jpg?w=360",
+          "likes": 200,
+          "comment": 17
+        },
+        {
+          "images": "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpeCQEhU.jpg",
+          "likes": 312,
+          "comment": 19
+        },
+        {
+          "images": "https://imgflip.com/s/meme/Cute-Cat.jpg",
+          "likes": 1065,
+          "comment": 200
+        }
+      ]
+    },
+    "dogs": {
+        "name": "dogs",
+        "followers": 75000,
+        "following": 150,
+        "posts" : [
+          {
+            "images": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2022-01/210602-doge-meme-nft-mb-1715-8afb7e.jpg",
+            "likes": 3000,
+            "comment": 41
+          },
+          {
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLvFIkd9zrut1aMK_OLHJpSsMG2lBS2ldsJA&usqp=CAU",
+            "likes": 2500,
+            "comment": 32
+          },
+          {
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ilYaO1eV5qmcU4bHi2izl_D_c0LUrck1KSbPgKRHIax8aa_ICEAfoW4_ijVIah0B640&usqp=CAU",
+            "likes": 500,
+            "comment": 6
+          }
+        ]
+      }
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+    
